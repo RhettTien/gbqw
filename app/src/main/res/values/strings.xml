@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国标全文</string>
+    <string name="default_web_url">https://openstd.samr.gov.cn/bzgk/gb/</string>
+    <string name="default_jump_url">http://c.gb688.cn/bzgk/gb/showGb?type=online&amp;hcno=</string>
+</resources> 
